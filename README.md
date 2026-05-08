@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Aadarsh Singh</h1>
+<!-- Full Width Banner at Top -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aadarsh%20Singh&fontSize=50&fontAlignY=35&animation=fadeIn&desc=PHP%20Backend%20Developer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=55" width="100%" />
+</p>
 
-<h3 align="center">
-  💻 PHP Backend Developer | Full-Stack Web Developer 🚀
-</h3>
+<!-- Typing Animation Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=1000&lines=Building+scalable%2C+responsive+web+solutions;Core+PHP+%7C+Laravel+%7C+MySQL+%7C+React.js;1%2B+year+of+hands-on+experience;Available+for+freelance+work+%F0%9F%9A%80" width="100%" alt="Typing Banner" />
+</p>
 
-<h3 align="center">
-  Building scalable, responsive web solutions with Core PHP, Laravel, MySQL & React.js 🔥 1+ year exp
-</h3>
-
+<!-- Profile Views & Social Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aadarshsingh786&label=Profile%20views&color=0e75b6&style=flat" alt="aadarshsingh786" />
   <a href="https://twitter.com/singhaadarsh937" target="blank">
@@ -16,6 +17,7 @@
 </p>
 
 ---
+
 
 ### 👨‍💻 About Me
 
